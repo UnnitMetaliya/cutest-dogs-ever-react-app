@@ -1,10 +1,10 @@
 import React from "react";
-import "./App.css";
+import BreedSelector from "./components/BreedSelector";
 
 function App() {
   return (
     <div className="App">
-      <p>Hello!</p>
+      <BreedSelector />
     </div>
   );
 }
