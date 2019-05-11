@@ -1,10 +1,10 @@
 import React from "react";
-import BreedSelector from "./components/BreedSelector";
+import DogRandomizer from "./components/DogRandomizer";
 
 function App() {
   return (
     <div className="App">
-      <BreedSelector />
+      <DogRandomizer />
     </div>
   );
 }

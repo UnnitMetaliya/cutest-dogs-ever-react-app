@@ -6,3 +6,17 @@ h1 {
   width: 20%;
   margin: 0 auto;
 }
+
+.dd-wrapper {
+  text-align: center;
+  margin: 50px;
+}
+
+.dog-image {
+  padding: 50px;
+}
+
+img {
+  border: 5px solid lightgreen;
+  border-radius: 2%;
+}
